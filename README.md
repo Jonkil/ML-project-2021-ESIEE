@@ -7,9 +7,7 @@
 
 This folder contains a notebook with codes for data analysis and model training.
 
-Input data should be in the folder "data". 
-
-The "ouput" folder contains predictions produced by the notebook.
+Input data must be in the same folder as the notebook. Output files will be written into this folder as well.
 
 The "requirements.txt" file contains the packages that need to be installed into a dedicated Anaconda environment.
 
