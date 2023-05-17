@@ -1,7 +1,7 @@
 # AIC-4101C - Machine learning 
 ## Project: Malicious and Benign Websites
 
-### by Assem Maratova
+### by Assem M / https://github.com/Jonkil
 ---
 
 
